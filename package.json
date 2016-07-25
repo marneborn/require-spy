@@ -1,0 +1,30 @@
+{
+  "name": "require-spy",
+  "version": "1.0.0",
+  "description": "Enable spying on the internal process of requiring a module."
+  "main": "index.js",
+  "directories": {
+    "test": "spec"
+  },
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marneborn/require-spy.git"
+  },
+  "keywords": [
+    "nodejs",
+    "require",
+    "spy",
+    "mock",
+    "hook",
+    "intercept"
+  ],
+  "author": "Mikael Arneborn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marneborn/require-spy/issues"
+  },
+  "homepage": "https://github.com/marneborn/require-spy#readme"
+}
